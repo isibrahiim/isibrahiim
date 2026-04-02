@@ -1,6 +1,7 @@
 👋 Hi, I’m Isse S. Ibrahim
 
 Developer with a growing focus on Cybersecurity
+
 🌍 Based in Helsinki, Finland  
 💻 I build modern, user‑friendly digital experiences  
 🔐 Exploring the world of IT, Linux, and cybersecurity  
